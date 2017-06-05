@@ -1,0 +1,10 @@
+#files
+*.dcp
+*.xpr
+*.jou
+*.log
+*.xdc
+
+#directory
+Synth/*
+Implement/*
